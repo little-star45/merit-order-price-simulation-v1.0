@@ -1,5 +1,7 @@
 It is allowed to use the program only for scientific purposes. Any modification of the code or distribution without the author's consent is prohibited. 
-This is the first version of the application - based on global variables, matplotlib + tkinter libraries and written mainly functionally; in the future I plan to develop towards using Data.
+This is the first version of the application - based on global variables, matplotlib + tkinter libraries and written mainly functionally; in the future I plan to develop towards using database and ReactJS.
+
+The application allows you to play with energy prices ora energy mix. By modulating energy demand, power plant types and capacities, and CO2 rates, we can test different energy scenarios. It allows us to observe the phenomenon of dependence between energy price and energy demand, the impact of oze on energy prices and decisions.
 
 ![image](https://github.com/user-attachments/assets/7ec44723-e7d8-4002-89a1-3aa8a8845bb8)
 ![image](https://github.com/user-attachments/assets/15a2795d-721d-4def-b3f7-d535ff7ca92c)
